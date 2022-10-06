@@ -8,7 +8,10 @@
 - 🌱 I'm currently studying computer science at the ZHAW  
 
 
-- 🔭 I'm currently working on school projects  
+- 👨‍💻 I'm currently working on school projects  
+
+
+- 🔭 Mainly interested in mobile, web and software development
   
 
 - 🗣️  I speak English, German, Arabic. I'm currently learning Japanese  
