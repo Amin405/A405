@@ -5,11 +5,10 @@
 
 ### <div align="center">I'm Amin Soussi</div>  
   
+- 🌱 I'm currently studying computer science at the ZHAW  
+
 
 - 🔭I am currently working on school projects  
-  
-
-- 🌱 I'm currently studying computer science at the ZHAW  
   
 
 - 🗣️  I speak English, German, Arabic. I'm currently learning Japanese  
