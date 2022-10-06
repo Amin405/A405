@@ -8,7 +8,7 @@
 - 🌱 I'm currently studying computer science at the ZHAW  
 
 
-- 🔭I am currently working on school projects  
+- 🔭I'm currently working on school projects  
   
 
 - 🗣️  I speak English, German, Arabic. I'm currently learning Japanese  
