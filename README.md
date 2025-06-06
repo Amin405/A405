@@ -3,23 +3,6 @@
 </div>  
   
 
-### <div align="center">I'm Amin Soussi</div>  
-  
-- 🌱 I'm currently studying computer science at the ZHAW  
-
-
-- 🔭 Mainly interested in mobile, web and software development
-
-
-- 👨‍💻 I'm currently working on school projects  
-  
-
-- 🗣️  I speak English, German, Arabic. I'm currently learning Japanese  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
